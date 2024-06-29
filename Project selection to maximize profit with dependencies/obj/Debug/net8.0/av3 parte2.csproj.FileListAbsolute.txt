@@ -1,0 +1,14 @@
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.AssemblyInfoInputs.cache
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.AssemblyInfo.cs
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.csproj.CoreCompileInputs.cache
+d:\Facul\VSCODE\av3parte2\bin\Debug\net8.0\av3 parte2.exe
+d:\Facul\VSCODE\av3parte2\bin\Debug\net8.0\av3 parte2.deps.json
+d:\Facul\VSCODE\av3parte2\bin\Debug\net8.0\av3 parte2.runtimeconfig.json
+d:\Facul\VSCODE\av3parte2\bin\Debug\net8.0\av3 parte2.dll
+d:\Facul\VSCODE\av3parte2\bin\Debug\net8.0\av3 parte2.pdb
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.dll
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\refint\av3 parte2.dll
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.pdb
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\av3 parte2.genruntimeconfig.cache
+d:\Facul\VSCODE\av3parte2\obj\Debug\net8.0\ref\av3 parte2.dll
