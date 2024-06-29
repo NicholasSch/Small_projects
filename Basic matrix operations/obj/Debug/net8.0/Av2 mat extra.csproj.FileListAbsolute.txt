@@ -1,0 +1,14 @@
+E:\Facul\VSCODE\Av2 mat extra\bin\Debug\net8.0\Av2 mat extra.exe
+E:\Facul\VSCODE\Av2 mat extra\bin\Debug\net8.0\Av2 mat extra.deps.json
+E:\Facul\VSCODE\Av2 mat extra\bin\Debug\net8.0\Av2 mat extra.runtimeconfig.json
+E:\Facul\VSCODE\Av2 mat extra\bin\Debug\net8.0\Av2 mat extra.dll
+E:\Facul\VSCODE\Av2 mat extra\bin\Debug\net8.0\Av2 mat extra.pdb
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.AssemblyInfoInputs.cache
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.AssemblyInfo.cs
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.csproj.CoreCompileInputs.cache
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.dll
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\refint\Av2 mat extra.dll
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.pdb
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\Av2 mat extra.genruntimeconfig.cache
+E:\Facul\VSCODE\Av2 mat extra\obj\Debug\net8.0\ref\Av2 mat extra.dll
