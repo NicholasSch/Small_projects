@@ -1,0 +1,14 @@
+E:\Facul\VSCODE\Av2 extra graph\bin\Debug\net8.0\Av2 extra graph.exe
+E:\Facul\VSCODE\Av2 extra graph\bin\Debug\net8.0\Av2 extra graph.deps.json
+E:\Facul\VSCODE\Av2 extra graph\bin\Debug\net8.0\Av2 extra graph.runtimeconfig.json
+E:\Facul\VSCODE\Av2 extra graph\bin\Debug\net8.0\Av2 extra graph.dll
+E:\Facul\VSCODE\Av2 extra graph\bin\Debug\net8.0\Av2 extra graph.pdb
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.AssemblyInfoInputs.cache
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.AssemblyInfo.cs
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.csproj.CoreCompileInputs.cache
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.dll
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\refint\Av2 extra graph.dll
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.pdb
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\Av2 extra graph.genruntimeconfig.cache
+E:\Facul\VSCODE\Av2 extra graph\obj\Debug\net8.0\ref\Av2 extra graph.dll
