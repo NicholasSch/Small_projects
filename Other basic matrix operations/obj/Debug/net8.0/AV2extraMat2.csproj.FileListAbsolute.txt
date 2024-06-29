@@ -1,0 +1,14 @@
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.AssemblyInfoInputs.cache
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.AssemblyInfo.cs
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.csproj.CoreCompileInputs.cache
+E:\Facul\VSCODE\AV2extraMat2\bin\Debug\net8.0\AV2extraMat2.exe
+E:\Facul\VSCODE\AV2extraMat2\bin\Debug\net8.0\AV2extraMat2.deps.json
+E:\Facul\VSCODE\AV2extraMat2\bin\Debug\net8.0\AV2extraMat2.runtimeconfig.json
+E:\Facul\VSCODE\AV2extraMat2\bin\Debug\net8.0\AV2extraMat2.dll
+E:\Facul\VSCODE\AV2extraMat2\bin\Debug\net8.0\AV2extraMat2.pdb
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.dll
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\refint\AV2extraMat2.dll
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.pdb
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\AV2extraMat2.genruntimeconfig.cache
+E:\Facul\VSCODE\AV2extraMat2\obj\Debug\net8.0\ref\AV2extraMat2.dll
