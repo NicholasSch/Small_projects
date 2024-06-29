@@ -184,7 +184,10 @@ class Graph
 static void Main(string[] args)
 {
 
-    // Leitura do arquivo kruskal.txt
+    // kruskal.txt Read
+    // Change input file location to file location on your pc
+    // First line contain number of vertexes 
+    // Other lines contain the adjacency matrix
     string[] lines = File.ReadAllLines("D:\\Facul\\Grafos\\kruskal.txt");
     int qntvertices = int.Parse(lines[0]);
 
@@ -211,7 +214,7 @@ static void Main(string[] args)
     //A execução do algoritmo de Kruskal retorna ujma lista com as arestas do mst
     List<Edge> kruskalMST = graph.KruskalMST();
 
-    Console.WriteLine("Resultado de Kruskel");
+    Console.WriteLine("Kruskal result");
     //Se ha qntvertices-1 arestas adicionada então é conexo
     if (kruskalMST.Count == qntvertices - 1)
     {
@@ -228,7 +231,11 @@ static void Main(string[] args)
     }
 
 
-    // Leitura do arquivo prim.txt
+    // PRIM.txt Read
+    // Change input file location to file location on your pc
+    // First line contain number of vertexes 
+    // Next n lines contain the adjacency matrix
+    // Last line contains the root vertex
     lines = File.ReadAllLines("D:\\Facul\\Grafos\\prim.txt");
     qntvertices = int.Parse(lines[0]);
     graph = new Graph(qntvertices);
@@ -258,7 +265,7 @@ static void Main(string[] args)
     List<int> primpredecessors = resultprim.Item1;
     List<Edge>primMSt = resultprim.Item2;
 
-    Console.WriteLine("\nResultado de PRIM");
+    Console.WriteLine("\nPRIM result");
     //Se todos os elementos da lista são diferentes de -2 escreve o resultado
     if (primpredecessors.All(x => x != -2))
     {
@@ -267,7 +274,7 @@ static void Main(string[] args)
         
         for (int i = 0; i < qntvertices; i++)
         {
-                Console.WriteLine($"Predecessor de {i}: {primpredecessors[i]}");
+                Console.WriteLine($"predecessor of {i}: {primpredecessors[i]}");
         }
         foreach (var edge in primMSt)
         {
@@ -280,7 +287,11 @@ static void Main(string[] args)
         Console.WriteLine("FALSO");
     }
 
-    // Leitura do arquivo BellmanFord.txt
+    // BellmanFord.txt Read
+    // Change input file location to file location on your pc
+    // First line contain number of vertexes 
+    // Next n lines contain the adjacency matrix
+    // Last line contains the root vertex
     lines = File.ReadAllLines("D:\\Facul\\Grafos\\BellmanFord.txt");
     qntvertices = int.Parse(lines[0]);
     graph = new Graph(qntvertices);
@@ -310,15 +321,15 @@ static void Main(string[] args)
     List<int> bfPredecessors = result.Item1;
     List<double> bfDistances = result.Item2;
 
-    Console.WriteLine("\nResultado de BellmanFord");
-    Console.WriteLine("Predecessores:");
+    Console.WriteLine("\nBellmanFord result");
+    Console.WriteLine("Predecessors:");
 
     //imprime os resultados
     foreach (var pred in bfPredecessors)
     {
         Console.Write(pred + " ");
     }
-    Console.WriteLine("\nDistâncias:");
+    Console.WriteLine("\nDistances:");
     foreach (var dist in bfDistances)
     {
         Console.Write(dist + " ");
